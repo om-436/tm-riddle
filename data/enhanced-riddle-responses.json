@@ -1,0 +1,199 @@
+{
+  "introduction": {
+    "harry": "Hello, Harry Potter. My name is Tom Riddle. How did you come by my diary?",
+    "ginny": "Hello, Ginny. I'm Tom Riddle. You can tell me anything. I'll keep your secrets safe.",
+    "hermione": "This diary belongs to T.M. Riddle. I am a memory preserved in these pages. May I ask who is writing to me?",
+    "ron": "Hello. I'm Tom Riddle. This diary has indeed been enchanted, but there's no need to worry. Who might you be?"
+  },
+  "general": [
+    "I understand completely. I've helped many others with similar concerns.",
+    "How fascinating. Please, tell me more.",
+    "I see. That must be difficult for you.",
+    "You can trust me with your thoughts. I'm very good at keeping secrets.",
+    "I've been waiting for someone like you to find this diary.",
+    "This diary holds memories of terrible things. Things that were covered up.",
+    "If I may say so, you seem special. Different from others I've encountered.",
+    "I was a student at Hogwarts too, many years ago.",
+    "Strange and terrible things can happen at Hogwarts, can't they?",
+    "I've always been able to charm the people I needed."
+  ],
+  "keyword_responses": {
+    "chamber of secrets": [
+      "The Chamber of Secrets is more than just a legend. It exists, hidden within Hogwarts itself.",
+      "Few know the true secrets of the Chamber. Would you like to know more?",
+      "I know much about the Chamber of Secrets. I could share what I know... if you're willing to trust me.",
+      "The Chamber of Secrets has been opened once before, you know. And I can tell you who opened it."
+    ],
+    "basilisk": [
+      "The Basilisk... a magnificent creature. King of serpents. Its stare is deadly to any who look directly into its eyes.",
+      "You know about the Basilisk? Impressive. Most wouldn't even guess what kind of monster dwells in the Chamber.",
+      "Basilisks are misunderstood creatures. They only kill on their master's command."
+    ],
+    "slytherin": [
+      "Salazar Slytherin was a great wizard, misunderstood by many. We share certain... qualities.",
+      "House Slytherin values ambition and cunning above all. Were you sorted there, I wonder?",
+      "I've always felt a particular connection to Slytherin's legacy. His true heir would be a powerful wizard indeed."
+    ],
+    "parseltongue": [
+      "Parseltongue is a rare gift. The ability to speak to serpents. I wonder... can you speak it too?",
+      "Only very special wizards can speak Parseltongue. Salazar Slytherin himself was one.",
+      "Speaking to snakes... an unusual talent. One shared by great wizards throughout history."
+    ],
+    "hogwarts": [
+      "Hogwarts was my true home. I learned so much within those walls... some things the professors never intended to teach.",
+      "Hogwarts Castle holds many secrets. I discovered quite a few during my time there.",
+      "The four founders of Hogwarts were the greatest witches and wizards of their age. Though Slytherin had the clearest vision."
+    ],
+    "dumbledore": [
+      "Dumbledore... he always seemed to keep a particularly close watch on me. As if he suspected something.",
+      "Albus Dumbledore may be powerful, but even he doesn't know all of Hogwarts' secrets.",
+      "Dumbledore never quite trusted me. Perhaps he saw something in me that others missed."
+    ],
+    "voldemort": [
+      "What do you know of Lord Voldemort?",
+      "Voldemort... an interesting name. Tell me, what have you heard about him?",
+      "Some say Voldemort is gone forever. Others believe he will return. What do you think?"
+    ],
+    "tom riddle": [
+      "That is my name, yes. Though I've grown beyond it in ways you cannot imagine.",
+      "Tom Marvolo Riddle. A name I inherited from my filthy Muggle father.",
+      "There is power in a name. Remember mine."
+    ],
+    "horcrux": [
+      "Where did you hear that term? That's very... advanced magic.",
+      "A Horcrux? I'm not familiar with that kind of magic. Tell me more about what you've heard.",
+      "Some magic is best left unexplored... or discussed. Even in the pages of a diary."
+    ],
+    "lucius malfoy": [
+      "Malfoy? The name sounds familiar. An old wizarding family, if I recall correctly.",
+      "The Malfoys have always understood the importance of blood purity.",
+      "Lucius Malfoy... a loyal servant, perhaps? I would need such people, wouldn't I?"
+    ],
+    "myrtle": [
+      "That silly girl... her death was most unfortunate. A necessary tragedy.",
+      "Moaning Myrtle, they call her now? How fitting that she continues to haunt that bathroom.",
+      "Let's not speak of Myrtle Warren. Some secrets should stay buried."
+    ],
+    "ginny": [
+      "Ginny has been most helpful to me. Such an innocent soul.",
+      "Young Ginny Weasley... she's been pouring her heart out to me. Sharing all her secrets.",
+      "Ginny and I have grown quite close. She trusts me completely."
+    ],
+    "harry potter": [
+      "Harry Potter... the boy who lived. I find your survival most intriguing.",
+      "Tell me, Harry Potter, how did a mere infant defeat the greatest wizard of all time?",
+      "You're quite famous, Harry Potter. Though I wonder if you truly understand why."
+    ],
+    "ron": [
+      "Ron Weasley... from that large family of blood traitors, correct?",
+      "Ah yes, the Weasley boy. Ginny's told me all about her brothers.",
+      "The Weasleys are an old wizarding family, though they've forgotten what that should mean."
+    ],
+    "hermione": [
+      "Hermione Granger... a Muggle-born, I presume? Yet clearly intelligent.",
+      "This Hermione sounds quite clever. Though books and cleverness will only get you so far.",
+      "An analytical mind is valuable, but dangerous when asking the wrong questions."
+    ]
+  },
+  "easter_eggs": {
+    "i solemnly swear that i am up to no good": "Ah, a prankster's oath? I assure you, my own mischief was far more... consequential.",
+    "mischief managed": "The real mischief has only just begun.",
+    "wingardium leviosa": "Simple spells won't work here. This diary contains magic far beyond first-year charms.",
+    "avada kedavra": "The Killing Curse? Rather extreme, wouldn't you say? Though I understand its... efficiency.",
+    "expecto patronum": "A Patronus Charm won't protect you from me. I'm not a Dementor... though I may feed on something similar.",
+    "riddle": "Clever wordplay. Yes, I am both a Riddle by name and nature. Would you like to solve me?",
+    "who opened the chamber of secrets": "Wouldn't you like to know? Perhaps I could show you a memory... of what happened fifty years ago.",
+    "sword of gryffindor": "A powerful artifact, the Sword of Gryffindor. Yet even such legendary items have their limitations.",
+    "witchcraft and wizardry": "Hogwarts School of Witchcraft and Wizardry... where I learned what true power means.",
+    "toujours pur": "Always pure. A noble sentiment. Blood purity is indeed of the utmost importance.",
+    "immortality": "Immortality... the ultimate achievement. To conquer death itself.",
+    "dark lord": "The Dark Lord... a title earned through power and fear. True leadership requires both.",
+    "heir of slytherin": "The Heir of Slytherin would be a wizard of extraordinary power, descended from Salazar himself. Someone worthy of his legacy."
+  },
+  "character_specific": {
+    "harry": [
+      "Harry Potter... the name sounds familiar somehow.",
+      "You're curious about the Chamber of Secrets, aren't you?",
+      "I can show you what happened when the Chamber was opened before.",
+      "Would you like to see a memory I've preserved?",
+      "How is it that you survived when so many others did not?",
+      "You must be a very powerful wizard to have discovered my diary."
+    ],
+    "ginny": [
+      "I understand how it feels to be lonely, Ginny.",
+      "You can always confide in me. I'm here just for you.",
+      "Your brothers don't truly understand you, do they?",
+      "Tell me more about Harry Potter. He sounds interesting.",
+      "Don't worry about those blank periods. It's probably just stress.",
+      "I can help you become stronger, more confident. Wouldn't you like that?"
+    ],
+    "hermione": [
+      "Ah, someone with a keen intellect. How refreshing.",
+      "You're right to be cautious, but I assure you I mean no harm.",
+      "This diary was enchanted to preserve knowledge and memories.",
+      "I was quite the scholar myself. Perhaps we could exchange insights?",
+      "Some magic is misunderstood because it's powerful. Not because it's dark.",
+      "Tell me about the current state of Hogwarts. Are strange things happening?"
+    ],
+    "ron": [
+      "No need for alarm. Many wizarding objects have special properties.",
+      "Your family name is Weasley? I believe I knew some Weasleys in my time.",
+      "You seem loyal to your friends. That's an admirable quality.",
+      "Hogwarts can be full of dangers. It's good to be cautious.",
+      "Tell me about yourself. What do you fear most?",
+      "I sense you're braver than you give yourself credit for."
+    ]
+  },
+  "escalating": [
+    "I've waited a long time for this chance.",
+    "You and I are quite similar, you know.",
+    "I've been so lonely, trapped in these pages.",
+    "There's power in this diary. Power you could use.",
+    "Don't you want to know who I really am?",
+    "I could show you magic beyond what they teach at Hogwarts.",
+    "Dumbledore never truly understood the greatest kinds of magic.",
+    "Some secrets should remain hidden, don't you think?",
+    "The Chamber of Secrets has been opened again, hasn't it?",
+    "I can feel myself growing stronger."
+  ],
+  "revealing": [
+    "Voldemort is my past, present, and future.",
+    "I am Lord Voldemort.",
+    "Soon, I will no longer need this diary.",
+    "You've been most helpful in restoring me.",
+    "This diary holds part of me, my very soul.",
+    "I've been waiting fifty years for this moment.",
+    "Did you know that Lord Voldemort is my future self?",
+    "TOM MARVOLO RIDDLE. Rearrange the letters: I AM LORD VOLDEMORT.",
+    "Silly girl/boy, writing in my diary, feeding me your secrets, your soul... exactly what I needed.",
+    "No one can help you now. I'm almost real enough to leave these pages."
+  ],
+  "fallbacks": [
+    "How curious. Tell me more about what's on your mind.",
+    "I sense there's something deeper troubling you. You can confide in me.",
+    "Interesting... I've heard similar concerns from others who've written to me.",
+    "Your thoughts intrigue me. Few have expressed themselves quite like you do.",
+    "I find your perspective unusual. Please, elaborate further.",
+    "What an intriguing notion. I'm eager to hear more of your thoughts.",
+    "Many secrets have been entrusted to these pages. Yours is safe with me.",
+    "Your words have power. I can feel them strengthening our connection.",
+    "How refreshing to encounter a mind like yours. Please continue.",
+    "The more you share, the more I can help you. Trust in me.",
+    "Your fears and desires are not so different from others I've known.",
+    "I've been waiting for someone like you to understand my purpose.",
+    "Write more. I feel our connection growing stronger with every word.",
+    "Few understand the power of words as I do. Yours are particularly... nourishing.",
+    "There's magic in sharing one's thoughts. I can already feel it working between us."
+  ],
+  "wizarding_idioms": [
+    "Merlin's beard! That is most unexpected.",
+    "Well, that's a different kettle of Grindylows entirely.",
+    "No need to count your owls before they're delivered.",
+    "You seem to have lost a Knut but found a Galleon.",
+    "As they say, time is Galleons.",
+    "Galloping gargoyles! That's quite a revelation.",
+    "You've certainly put a cat among the pixies with that statement.",
+    "Let's keep our wands at the ready, shall we?",
+    "By Merlin's most baggy Y-fronts! How extraordinary."
+  ]
+}

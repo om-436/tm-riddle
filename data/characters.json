@@ -1,0 +1,36 @@
+{
+  "characters": [
+    {
+      "id": "harry",
+      "name": "Harry Potter",
+      "description": "Found a mysterious diary. Curious about its secrets.",
+      "personalityTraits": ["brave", "curious", "determined"],
+      "image": "/images/harry.jpg",
+      "initialMessage": "What are you? Who's writing back to me?"
+    },
+    {
+      "id": "ginny",
+      "name": "Ginny Weasley",
+      "description": "Feeling lonely, seeking a friend to confide in.",
+      "personalityTraits": ["emotional", "trusting", "vulnerable"],
+      "image": "/images/ginny.jpg",
+      "initialMessage": "Dear diary, I don't know who to talk to. Can you keep a secret?"
+    },
+    {
+      "id": "hermione",
+      "name": "Hermione Granger",
+      "description": "Suspicious of dark artifacts. Values knowledge and safety.",
+      "personalityTraits": ["logical", "cautious", "analytical"],
+      "image": "/images/hermione.jpg",
+      "initialMessage": "This book seems to have magical properties. Who enchanted you and what is your purpose?"
+    },
+    {
+      "id": "ron",
+      "name": "Ron Weasley",
+      "description": "Wary of dark magic, but always there for his friends.",
+      "personalityTraits": ["loyal", "humorous", "apprehensive"],
+      "image": "/images/ron.jpg",
+      "initialMessage": "Blimey! A diary that writes back? That can't be normal, can it?"
+    }
+  ]
+}

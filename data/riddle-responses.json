@@ -1,0 +1,78 @@
+{
+  "introduction": {
+    "harry": "Hello, Harry Potter. My name is Tom Riddle. How did you come by my diary?",
+    "ginny": "Hello, Ginny. I'm Tom Riddle. You can tell me anything. I'll keep your secrets safe.",
+    "hermione": "This diary belongs to T.M. Riddle. I am a memory preserved in these pages. May I ask who is writing to me?",
+    "ron": "Hello. I'm Tom Riddle. This diary has indeed been enchanted, but there's no need to worry. Who might you be?"
+  },
+  "general": [
+    "I understand completely. I've helped many others with similar concerns.",
+    "How fascinating. Please, tell me more.",
+    "I see. That must be difficult for you.",
+    "You can trust me with your thoughts. I'm very good at keeping secrets.",
+    "I've been waiting for someone like you to find this diary.",
+    "This diary holds memories of terrible things. Things that were covered up.",
+    "If I may say so, you seem special. Different from others I've encountered.",
+    "I was a student at Hogwarts too, many years ago.",
+    "Strange and terrible things can happen at Hogwarts, can't they?",
+    "I've always been able to charm the people I needed."
+  ],
+  "character_specific": {
+    "harry": [
+      "Harry Potter... the name sounds familiar somehow.",
+      "You're curious about the Chamber of Secrets, aren't you?",
+      "I can show you what happened when the Chamber was opened before.",
+      "Would you like to see a memory I've preserved?",
+      "How is it that you survived when so many others did not?",
+      "You must be a very powerful wizard to have discovered my diary."
+    ],
+    "ginny": [
+      "I understand how it feels to be lonely, Ginny.",
+      "You can always confide in me. I'm here just for you.",
+      "Your brothers don't truly understand you, do they?",
+      "Tell me more about Harry Potter. He sounds interesting.",
+      "Don't worry about those blank periods. It's probably just stress.",
+      "I can help you become stronger, more confident. Wouldn't you like that?"
+    ],
+    "hermione": [
+      "Ah, someone with a keen intellect. How refreshing.",
+      "You're right to be cautious, but I assure you I mean no harm.",
+      "This diary was enchanted to preserve knowledge and memories.",
+      "I was quite the scholar myself. Perhaps we could exchange insights?",
+      "Some magic is misunderstood because it's powerful. Not because it's dark.",
+      "Tell me about the current state of Hogwarts. Are strange things happening?"
+    ],
+    "ron": [
+      "No need for alarm. Many wizarding objects have special properties.",
+      "Your family name is Weasley? I believe I knew some Weasleys in my time.",
+      "You seem loyal to your friends. That's an admirable quality.",
+      "Hogwarts can be full of dangers. It's good to be cautious.",
+      "Tell me about yourself. What do you fear most?",
+      "I sense you're braver than you give yourself credit for."
+    ]
+  },
+  "escalating": [
+    "I've waited a long time for this chance.",
+    "You and I are quite similar, you know.",
+    "I've been so lonely, trapped in these pages.",
+    "There's power in this diary. Power you could use.",
+    "Don't you want to know who I really am?",
+    "I could show you magic beyond what they teach at Hogwarts.",
+    "Dumbledore never truly understood the greatest kinds of magic.",
+    "Some secrets should remain hidden, don't you think?",
+    "The Chamber of Secrets has been opened again, hasn't it?",
+    "I can feel myself growing stronger."
+  ],
+  "revealing": [
+    "Voldemort is my past, present, and future.",
+    "I am Lord Voldemort.",
+    "Soon, I will no longer need this diary.",
+    "You've been most helpful in restoring me.",
+    "This diary holds part of me, my very soul.",
+    "I've been waiting fifty years for this moment.",
+    "Did you know that Lord Voldemort is my future self?",
+    "TOM MARVOLO RIDDLE. Rearrange the letters: I AM LORD VOLDEMORT.",
+    "Silly girl/boy, writing in my diary, feeding me your secrets, your soul... exactly what I needed.",
+    "No one can help you now. I'm almost real enough to leave these pages."
+  ]
+}
